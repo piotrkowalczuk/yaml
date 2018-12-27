@@ -1,0 +1,7 @@
+language: go
+
+go:
+    - 1.11
+    - tip
+
+go_import_path: github.com/go-yaml/yaml/v3
